@@ -27,6 +27,7 @@
 ### 로그 빈도 변수 생성
 + user log data를 바탕으로 유저 개인의 앱 사용 성향에 관한 내용을 반영하고자 함
 + 해당 유저가 신청서를 넣기 전까지의 로그 이벤트 별 빈도를 새로운 변수로 생성
+
   ![image](https://user-images.githubusercontent.com/69777594/230569297-df0ad04f-3a5a-4ff6-82a6-32e07f48ecab.png)
 
 ### 파생 변수 생성
@@ -85,8 +86,8 @@
 
 ### 군집 결과 시각화 및 해석
 + 연속형 변수 : radar chart
-
   ![image](https://user-images.githubusercontent.com/69777594/230574771-e7dbc819-e0eb-4042-8224-7a31e1972928.png)
+  
 + 이산형 변수 : stacked bar plot
   ![image](https://user-images.githubusercontent.com/69777594/230574969-b46bb98d-f4c8-4a79-92b8-7c710980c078.png)
 
